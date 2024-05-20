@@ -5,7 +5,7 @@ Welcome to my Kaggle Competitions repository! This repository contains my soluti
 ## Repository Structure
 
 The repository is organized as follows:
-
+```
 kaggle-competitions/
 ├── competition-1/
 │ ├── README.md
@@ -18,7 +18,7 @@ kaggle-competitions/
 │ ├── requirements.txt
 │ └── results/
 └── README.md
-
+```
 
 ### Competitions
 
